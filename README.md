@@ -2,7 +2,7 @@
 
 **SKJ Clicker** is an advanced, high-performance automation suite and macro recorder built entirely in Python. Unlike basic autoclickers, it features a smart macro engine capable of capturing precise mouse paths (including hardware-relative delta movements), keyboard combinations, scroll events, and tracking persistent lifetime statistics.
 
-Developed with ❤️ by **SKJ Tech** (Kuba & Jaś).
+Developed with ❤️ by **SKJ Tech**
 
 ---
 
@@ -35,7 +35,7 @@ Before running the application, you **must** have Python installed on your Windo
 
 #### Option 1: Using the Standalone Installer (Recommended for Users)
 1. Navigate to the **Releases** tab on the right side of this GitHub repository.
-2. Download the latest pre-built `SKJ-Clicker.exe` (bundled via IExpress).
+2. Download the latest pre-built `SKJ-Clicker.exe`.
 3. Run the executable. It will automatically extract the core assets, install the required packages via your local Python environment, and launch the dashboard.
 
 #### Option 2: Running Directly from Source Code
@@ -61,4 +61,4 @@ You are free to use, modify, and distribute this software, provided that the ori
 See the [LICENSE](LICENSE) file for the full legal text.
 
 ---
-*SKJ Tech © 2026 - Kuba & Jaś*
+*SKJ Tech © 2026*
