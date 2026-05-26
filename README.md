@@ -1,6 +1,6 @@
 # SKJ Clicker
 
-A powerful and lightweight autoclicker with advanced macro functionality, developed by **SKJ Tech** (Kuba & Jaś).
+A powerful and lightweight autoclicker with advanced macro functionality, developed by **SKJ Tech** (Sklep Kuby i Jasia).
 
 ## Features
 
