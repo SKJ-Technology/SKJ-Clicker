@@ -8,7 +8,7 @@ Developed with ❤️ by **SKJ Tech**
 
 ## 🌟 Advanced Features
 
-* **Dual Automation Engine:** Toggle seamlessly between rapid-fire mouse clicking (Left/Right/Middle) and keyboard key-spamming or holding modes.
+* **Dual Automation Engine:** Toggle seamlessly between rapid-fire mouse clicking (Left/Right) and keyboard key-spamming or holding modes.
 * **Intelligent Scroll Capturing:** Records mouse wheel directional inputs with intermediate scroll-wheel division for flawless playback.
 * **Smart Countdown System:** Prevent accidental clicks with a configurable startup delay that prepares you before automation kicks in.
 * **Persistent Dashboard Stats:** Built-in telemetry that tracks your active uptime, macro executions, and click counts across individual sessions or lifetime usage.
