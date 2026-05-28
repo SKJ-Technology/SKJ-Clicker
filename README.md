@@ -78,6 +78,7 @@ Status Menu in Dark mode
 
 <img width="1000" height="975" alt="Zrzut ekranu 2026-05-28 153849" src="https://github.com/user-attachments/assets/87739363-d506-4754-910d-e9047cf13865" />
 Status Menu in White Mode
+
 ## 📝 License
 
 This project is licensed under the terms of the **MIT License**.  
