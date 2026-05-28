@@ -4,6 +4,7 @@
 
 Developed with ❤️ by **SKJ Tech**
 
+
 ---
 
 ## 🌟 Advanced Features
@@ -53,6 +54,34 @@ Before running the application, you **must** have Python installed on your Windo
    python main.py
    ```
 
+## 📷 Photos
+
+<img width="996" height="979" alt="Zrzut ekranu 2026-05-28 153800" src="https://github.com/user-attachments/assets/1d4b19b1-46d3-4f66-b49c-b652b34612e8" />
+
+Autoclicker Menu in Dark mode
+
+<img width="1001" height="985" alt="Zrzut ekranu 2026-05-28 153809" src="https://github.com/user-attachments/assets/180d2b48-2f2d-40ca-b70c-e6cfb5f55982" />
+
+Autoclicker Menu in White mode
+
+<img width="990" height="977" alt="Zrzut ekranu 2026-05-28 153824" src="https://github.com/user-attachments/assets/16a0a84b-9c21-4fef-aaaa-c801971854d4" />
+
+Macro Menu in Dark mode
+
+<img width="999" height="982" alt="Zrzut ekranu 2026-05-28 153832" src="https://github.com/user-attachments/assets/bf4d2e0b-b567-45e0-beb2-b8d212f5acc1" />
+
+Macro Menu in White mode
+
+<img width="1001" height="977" alt="Zrzut ekranu 2026-05-28 153839" src="https://github.com/user-attachments/assets/2b7769dd-2d08-41d8-8965-ed933d59d290" />
+
+Status Menu in Dark mode
+
+<img width="1001" height="977" alt="Zrzut ekranu 2026-05-28 153839" src="https://github.com/user-attachments/assets/25cba0ea-d37a-454d-914c-2cdc720c0124" />
+
+Status Menu in White Mode
+
+<img width="1000" height="975" alt="Zrzut ekranu 2026-05-28 153849" src="https://github.com/user-attachments/assets/87739363-d506-4754-910d-e9047cf13865" />
+ 
 ## 📝 License
 
 This project is licensed under the terms of the **MIT License**.  
